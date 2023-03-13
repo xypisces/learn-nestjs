@@ -94,7 +94,8 @@ if (module.hot) {
 }
 ```
 
-文档 @nestjs/swagger 
+文档 @nestjs/swagger  
 ```
-
+src/doc.ts
+generateDocument(app)
 ```
